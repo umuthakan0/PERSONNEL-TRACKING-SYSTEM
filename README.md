@@ -1,3 +1,8 @@
+
+The setup file is inside the pertaksissetup.rar
+
+
+
 Hello everyone, I am Umut Hakan Demir. To use this automation you need to:
 * step 1> extract the pertaksissetupp.rar file, there is a setup file in it, install it.
 *step 2> install the database files in the databaase.zip file.
